@@ -1,27 +1,16 @@
 <h1 align="center">🚀 Hey there! I'm Rajat Kumar Dash 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&width=500&lines=Welcome+to+my+GitHub!;Aspiring+Cybersecurity+Expert;Data+Science+and+AI+Enthusiast;Full-Stack+Developer;Open+Source+Contributor+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&width=450&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;Cybersecurity+Enthusiast;Full-Stack+Developer;Open+Source+Contributor+%F0%9F%94%92">
 </p>
 
 ---
 
 ## 🚀 About Me:
-- 🎓 **B.Tech in Computer Science & Engineering (2022-2026)**  
-  **Gandhi Institute of Engineering and Technology, Gunupur**  
-- 📌 Passionate about **Cybersecurity, Data Science, and Web Development**  
-- 📊 Love working with **Data Analytics & AI models**  
-- 💡 Always eager to learn & solve complex problems  
+- 🔭 I’m currently studying **Computer Science**  
+- 🌱 I’m learning **C++**  
+- 👨‍💻 Passionate about **Web Development & Cybersecurity**  
 - ⚡ Fun fact: **I’m funny and love memes!** 😂  
-
----
-
-## 🏆 Technical Certifications:
-- 🧠 **Data Science** *(YHills)*
-- 🐍 **The Joy of Computing using Python** *(NPTEL)*
-- 🖥 **Python Developer** *(Dabotics India)*
-- 🌐 **Web Development** *(Unified Mentor & InternPe)*
-- 🔒 **Cyber Defense** *(Cybervidyapeeth Foundation & CyberYaan Training & Consultancy)*
 
 ---
 
@@ -33,35 +22,20 @@
   <a href="https://linkedin.com/in/rajat-kumar-dash" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/qm-rajat" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge" />
+  <a href="https://instagram.com/qm_rajat" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:rajatkudash.2004@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack:
+## 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,flask,c,cpp,kotlin,java,tensorflow,git,linux,mysql,mongodb,sqlite,github,figma,photoshop,excel,powerbi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,flask,c,cpp,kotlin,java,tensorflow,git,linux,mysql,mongodb,sqlite,github,figma,photoshop" />
 </p>
-
----
-
-## 🔥 Projects:
-### 🛠 **Sales Insights and Data Analysis** *(Jun 2024 - Aug 2024)*
-- Used **Power BI, Python, and Excel** for sales data analysis.
-- Built **dynamic dashboards** for better visualization and decision-making.
-
-### 💖 **Predictive Model for Heart Failure Detection** *(Sep 2024 – Oct 2024)*
-- Developed an **AI-based prediction model** for heart failure classification.
-- Used **Python, Excel, HTML, and CSS** for data processing and visualization.
-
-### 🌱 **Crop Disease Prediction** *(Nov 2024 - Jan 2025)*
-- Created a **deep learning model** to classify crop diseases.
-- **Preprocessed image data** and improved model accuracy.
 
 ---
 
@@ -81,16 +55,11 @@
 
 ---
 
-## 🚀 My Goals:
+## 🎯 My Goals:
 🎯 **Become a Cybersecurity Expert** 🛡️  
 🎯 **Contribute to Open Source** 🔥  
 🎯 **Master Full-Stack Development** 🚀  
 🎯 **Build AI-Powered Applications** 🤖  
-
----
-
-## 🏅 Extracurricular Achievements:
-- 🤖 **Secured 3rd position in Robo Soccer** competition (Showcased teamwork & robotics skills)
 
 ---
 
