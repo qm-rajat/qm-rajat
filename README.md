@@ -1,47 +1,75 @@
-# 💫 About Me:
-🔭 I’m currently studying Computer Science  
-🌱 I’m currently learning C++  
-💬 Ask me about Web Development  
-⚡ Fun fact: I am funny 😆  
+<h1 align="center">🚀 Hey there! I'm Rajat Kumar Dash 👋</h1>
 
-## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/qm_rajat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qm_rajat_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajat-kumar-dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-kumar-dash" height="30" width="40" /></a>
-<a href="https://instagram.com/qm_rajat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qm_rajat" height="30" width="40" /></a>
-</p>
-
-# 💻 Tech Stack:
-### Languages and Tools:
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-</p>
-
-# 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=qm-rajat&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qm-rajat&theme=dark&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qm-rajat&theme=dark&hide_border=false&layout=compact"/>
-</p>
-
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=qm-rajat&theme=discord&no-frame=false&no-bg=true&margin-w=4"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&width=450&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;Cybersecurity+Enthusiast;Full-Stack+Developer;Open+Source+Contributor+%F0%9F%94%92">
 </p>
 
 ---
 
-### 😂 Random Dev Meme
-<img src='https://i.imgur.com/J7s1ebk.png' style="height: 400px;"/>
+## 🚀 About Me:
+- 🔭 I’m currently studying **Computer Science**  
+- 🌱 I’m learning **C++**  
+- 👨‍💻 Passionate about **Web Development & Cybersecurity**  
+- ⚡ Fun fact: **I’m funny and love memes!** 😂  
 
-[![](https://visitcount.itsvg.in/api?id=qm-rajat&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+---
+
+## 🌍 Connect with Me:
+<p align="center">
+  <a href="https://twitter.com/qm_rajat_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/rajat-kumar-dash" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/qm_rajat" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,flask,c,cpp,kotlin,java,tensorflow,git,linux,mysql,mongodb,sqlite,github,figma,photoshop" />
+</p>
+
+---
+
+## 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qm-rajat&show_icons=true&theme=radical&hide_border=true" width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qm-rajat&theme=radical&hide_border=true" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qm-rajat&theme=radical&hide_border=true&layout=compact" width="400px">
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qm-rajat&theme=darkhub&no-frame=false&margin-w=10" />
+</p>
+
+---
+
+## 🎯 My Goals:
+🎯 **Become a Cybersecurity Expert** 🛡️  
+🎯 **Contribute to Open Source** 🔥  
+🎯 **Master Full-Stack Development** 🚀  
+🎯 **Build AI-Powered Applications** 🤖  
+
+---
+
+## 😂 Random Dev Meme:
+<p align="center">
+  <img src="https://i.imgur.com/J7s1ebk.png" width="450px"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=qm-rajat&label=Profile%20Views&color=blue&style=flat" alt="qm-rajat" />
+</p>
