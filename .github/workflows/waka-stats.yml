@@ -1,0 +1,13 @@
+name: Auto Update Repos
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
