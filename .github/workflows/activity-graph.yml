@@ -9,22 +9,19 @@ permissions:
   contents: write
 
 concurrency:
-  group: activity-graph
+  group: readme-updates
   cancel-in-progress: true
 
 jobs:
-  generate:
+  activity-graph:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Activity Graph
-        uses: ashutosh00710/github-readme-activity-graph@main
+      - name: Generate Activity Graph
+        uses: ashutosh00710/github-readme-activity-graph-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          max_commits: 100
           theme: github-dark
-          hide_border: true
-          area: true
