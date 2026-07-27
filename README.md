@@ -24,11 +24,11 @@
 ## <img src="./assets/glyph.svg" height="18" align="center" alt=""/> &nbsp;whoami
 
 ```python
-class RajatKumarDash:
+class Rajat_Kumar_Dash:
     def __init__(self):
         self.roles      = ["Technical SEO", "Python Developer", "Web Developer",
                            "Data Scientist", "API Tester"]
-        self.daily_os   = ["Parrot OS", "Kali", "Ubuntu"]
+        self.daily_os   = ["Parrot OS", "Ubuntu", "Window 11"]
         self.focus      = "auditing, breaking, and automating the web"
         self.philosophy = "I don't just code — I map how systems actually behave"
 
