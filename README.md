@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://qmlab-indol.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-qmlab-00ff9c?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0e14"/></a>
-  <a href="https://linkedin.com/in/rajat-kumar-dash"><img src="https://img.shields.io/badge/LINKEDIN-connect-00d9ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e14"/></a>
-  <a href="https://twitter.com/qm_rajat_"><img src="https://img.shields.io/badge/X-@qm__rajat__-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0e14"/></a>
+  <a href="https://www.linkedin.com/in/rajatkudash"><img src="https://img.shields.io/badge/LINKEDIN-connect-00d9ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e14"/></a>
+  <a href="https://x.com/QM_Rajat_"><img src="https://img.shields.io/badge/X-@qm__rajat__-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0e14"/></a>
   <a href="mailto:rajatkudash.2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-reach%20out-ff2e97?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e14"/></a>
 </p>
 
