@@ -135,7 +135,7 @@ flowchart LR
 </p> -->
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=qm-rajat&hide_border=true&background=fffff&stroke=00ff9c&ring=00d9ff&fire=ff2e97&currStreakLabel=00ff9c&sideLabels=c9d5e1&dates=5c6b7a"/>
+  <img width="76%" src="https://streak-stats.demolab.com?user=qm-rajat&hide_border=true&background=0a0e14&border_radius=8&stroke=00ff9c&ring=00d9ff&fire=ff2e97&currStreakNum=00ff9c&currStreakLabel=00ff9c&sideNums=00d9ff&sideLabels=c9d5e1&dates=8291a1"/>
 </p>
 
 <!-- <p align="center">
