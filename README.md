@@ -129,22 +129,22 @@ flowchart LR
 
 ## <img src="./assets/glyph.svg" height="18" align="center" alt=""/> &nbsp;telemetry
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://qmrajat-stats.vercel.app/api?username=qm-rajat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00ff9c&icon_color=00d9ff&text_color=c9d5e1&bg_color=0a0e14"/>
   <img width="49%" src="https://qmrajat-stats.vercel.app/api/top-langs/?username=qm-rajat&layout=compact&langs_count=10&hide_border=true&title_color=00ff9c&text_color=c9d5e1&bg_color=0a0e14"/>
-</p>
+</p> -->
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=qm-rajat&hide_border=true&background=0a0e14&stroke=00ff9c&ring=00d9ff&fire=ff2e97&currStreakLabel=00ff9c&sideLabels=c9d5e1&dates=5c6b7a"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=qm-rajat&hide_border=true&background=fffff&stroke=00ff9c&ring=00d9ff&fire=ff2e97&currStreakLabel=00ff9c&sideLabels=c9d5e1&dates=5c6b7a"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=qm-rajat&hide_border=true&bg_color=0a0e14&color=00ff9c&line=00d9ff&point=ff2e97&area=true"/>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://qmrajat-trophies.vercel.app/?username=qm-rajat&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6"/>
-</p>
+</p> -->
 
 <img src="./assets/divider.svg" width="100%" alt="---"/>
 
